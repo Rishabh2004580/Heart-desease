@@ -60,6 +60,5 @@ The project is running now.
 
 ## Authors
 
-- Satish Shriwas (B.Tech CS-2022 Roll No:1805210046) **Mail:** 1805210046@ietlucknow.ac.in
-- Sudhanshu Singh (B.Tech CS-2022 Roll No:1805210056) **Mail:** 1805210056@ietlucknow.ac.in
-- Shweta (B.Tech Cs-2022 Roll No:1805210054) **Mail:** 1805210054@ietlucknow.ac.in
+- Rishabh jain (B.Tech CS AI-2025 Roll No:TCA2259064) **Mail:** risjabhjain123@gmail.com
+
